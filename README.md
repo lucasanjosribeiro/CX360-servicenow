@@ -1,8 +1,5 @@
 # CX360 - Gestão de Incidentes e Problemas 
-Projeto desenvolvido em PDI pessoal na plataforma ServiceNow.
-
-## Contexto
-Projeto de portfólio ServiceNow que simula a gestão de **Incidents** e **Problems** dentro de uma plataforma de e-commerce, unindo:
+Projeto desenvolvido em PDI pessoal na plataforma ServiceNow, simula a gestão de Incidentes e Problemas dentro de uma plataforma de e-commerce, unindo:
 - Conhecimento técnico em ServiceNow (ITSM) e na trilha CSA (Certified System Administrator)
 - Experiência prática em CX (Customer Experience)
 - Formação em Psicologia, aplicada ao entendimento do impacto do incidente na experiência do cliente
