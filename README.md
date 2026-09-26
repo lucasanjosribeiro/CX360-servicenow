@@ -8,7 +8,7 @@ Projeto desenvolvido em PDI pessoal na plataforma ServiceNow, simula a gestão d
 *Atuar solucionando falhas na plataforma que geram incidentes e afetam a experiência do cliente, e mostrar como o app ajuda times de TI e CX a tratar isso de forma integrada*
 
 ## Funcionalidades
-- [ ] Gestão de Incidents, Problems, Changes
+- [ ] Gestão de Incidentes, Problemas
 - [ ] Users, Groups e Roles
 - [ ] Security (ACLs)
 - [ ] Tables, Fields & Schema Map
